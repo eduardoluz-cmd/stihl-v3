@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/Users/eduardoluz/V2 stihlcalculo *)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(ls -la \"/Users/eduardoluz/Downloads/DASHBOARD_LCC.xlsx\")"
+    ]
+  }
+}
